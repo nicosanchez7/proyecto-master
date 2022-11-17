@@ -1,0 +1,20 @@
+/* reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* propiedades del div */
+
+div{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 2rem;
+    background-image: linear-gradient(to top, pink, red);
+
+    transform: scale(0.4, 0.1)
+}
